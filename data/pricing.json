@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-11-14",
   "status": "PREPARING",
   "announcement": "",
   "announcementJa": "",
@@ -16,7 +16,7 @@
           "nameJa": "顔（ヘッド）",
           "price": "20,000원~",
           "priceJa": "2,000円〜",
-          "image": "./data/images/sample-koron.jpg"
+          "image": "./data/images/upload-1794647975434.jpg"
         },
         {
           "name": "흉상",
@@ -30,7 +30,7 @@
           "nameJa": "半身",
           "price": "45,000원~",
           "priceJa": "4,500円〜",
-          "image": "./data/images/sample-koko.jpg"
+          "image": "./data/images/upload-1794647986603.jpg"
         },
         {
           "name": "전신",
